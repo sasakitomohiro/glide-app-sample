@@ -1,6 +1,5 @@
 package monster.sasakisan.glide_app_sample
 
-import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
